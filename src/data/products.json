@@ -1,0 +1,1101 @@
+[
+  {
+    "web_scraper_order": "mock-hyped-1773162647639-0",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Apple iPhone 18 Pro Max - PRE-ORDER",
+    "price": "Rs. 9,995",
+    "priceDisplay": "Rs. 9,995",
+    "priceNum": 9995,
+    "specs": [
+      "Waitlist Pre-Order (Expected Sep 2026)",
+      "Next-gen A20 Bionic AI Processor",
+      "Periscope Telephoto with 10x Optical Zoom",
+      "Under-display Face ID & Touch ID",
+      "Advanced iOS 20 Agentic AI Built-in"
+    ],
+    "reviewsCount": 1957,
+    "rating": "4.9",
+    "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "web_scraper_order": "mock-hyped-1773162647648-1",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Samsung Galaxy S26 Ultra - PRE-ORDER",
+    "price": "Rs. 9,998",
+    "priceDisplay": "Rs. 9,998",
+    "priceNum": 9998,
+    "specs": [
+      "Waitlist Pre-Order (Expected Jan 2026)",
+      "Snapdragon 8 Gen 5 for Galaxy",
+      "200MP Quad-Camera with AI Space Zoom",
+      "Titanium Frame & Seamless Flat Edge",
+      "Enhanced S-Pen Support"
+    ],
+    "reviewsCount": 5870,
+    "rating": "5.0",
+    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "web_scraper_order": "mock-hyped-1773162647648-2",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Google Pixel 11 Pro - PRE-ORDER",
+    "price": "Rs. 9,998",
+    "priceDisplay": "Rs. 9,998",
+    "priceNum": 9998,
+    "specs": [
+      "Waitlist Pre-Order (Expected Oct 2026)",
+      "Google Tensor G6 Chipset",
+      "Ultimate Computational Photography",
+      "Next-Gen Gemini AI Assistant Native",
+      "7-Years OS Updates"
+    ],
+    "reviewsCount": 1652,
+    "rating": "5.0",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "web_scraper_order": "mock-hyped-1773162647648-3",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Xiaomi 17 Ultra - PRE-ORDER",
+    "price": "Rs. 9,998",
+    "priceDisplay": "Rs. 9,998",
+    "priceNum": 9998,
+    "specs": [
+      "Leica Co-engineered Quad Cam System",
+      "Massive 1-inch Primary Sensor",
+      "120W HyperCharge Technology",
+      "Snapdragon 8 Gen 5 Processor"
+    ],
+    "reviewsCount": 3894,
+    "rating": "5.0",
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351cb31b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "web_scraper_order": "mock-hyped-1773162647648-4",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Honor Robot Phone Concept - PRE-ORDER",
+    "price": "Rs. 9,996",
+    "priceDisplay": "Rs. 9,996",
+    "priceNum": 9996,
+    "specs": [
+      "Most Viral Phone on the Internet",
+      "Integrated Gimbal-Stabilized Robotic Camera Arm",
+      "Multimodal AI Capabilities",
+      "World's Thinnest Foldable Design"
+    ],
+    "reviewsCount": 2997,
+    "rating": "4.9",
+    "image": "https://images.unsplash.com/photo-1533552755457-5b4812061619?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "web_scraper_order": "1773157871-1",
+    "web_scraper_start_url": "https://www.triveniworld.com/search?page=4&q=blackberry",
+    "data": "BlackBerry KEY2 LE (BBE100-4) 64GB Unlocked 4G Dual SIM Smartphone- Refurbished",
+    "price": "Rs. 24,999.00",
+    "data2": "BlackBerry KEY2 LE (BBE100-4) 64GB Unlocked 4G Dual SIM Smartphone- Refurbished",
+    "price2": "Rs. 24,999.00",
+    "data3": "Sale price",
+    "data4": "Unit price",
+    "data5": "per",
+    "data6": "/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/BlackBerryKey2LE3.png/960px-BlackBerryKey2LE3.png",
+    "priceDisplay": "Rs. 1,168",
+    "priceNum": 1168,
+    "specs": [
+      "Unlocked to any network",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal",
+      "Includes generic charger"
+    ],
+    "reviewsCount": 339,
+    "rating": "4.2"
+  },
+  {
+    "web_scraper_order": "1773157871-2",
+    "web_scraper_start_url": "https://www.triveniworld.com/search?page=4&q=blackberry",
+    "data": "Blackberry Key2 Dual SIM 64GB+6GB Android 8.1 Unlocked Refurbished",
+    "price": "Rs. 24,999.00",
+    "data2": "Blackberry Key2 Dual SIM 64GB+6GB Android 8.1 Unlocked Refurbished",
+    "price2": "Rs. 24,999.00",
+    "data3": "Sale price",
+    "data4": "Unit price",
+    "data5": "per",
+    "data6": "/",
+    "image": "https://images.unsplash.com/photo-1533552755457-5b4812061619?auto=format&fit=crop&w=800&q=80",
+    "priceDisplay": "Rs. 6,559",
+    "priceNum": 6559,
+    "specs": [
+      "Unlocked to any network",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal",
+      "Includes generic charger"
+    ],
+    "reviewsCount": 181,
+    "rating": "4.5"
+  },
+  {
+    "web_scraper_order": "1773157871-3",
+    "web_scraper_start_url": "https://www.triveniworld.com/search?page=4&q=blackberry",
+    "data": "BlackBerry Z10 16GB Black (AT&T) Smartphone - Refurbished",
+    "price": "Rs. 3,999.00",
+    "data2": "BlackBerry Z10 16GB Black (AT&T) Smartphone - Refurbished",
+    "price2": "Rs. 3,999.00",
+    "data3": "Sale price",
+    "data4": "Unit price",
+    "data5": "per",
+    "data6": "/",
+    "image": "https://www.triveniworld.com/cdn/shop/products/blackberry-z10-16gb-black-atandt-smartphone-refurbished-triveni-world-1.jpg?v=1736282936",
+    "priceDisplay": "Rs. 4,472",
+    "priceNum": 4472,
+    "specs": [
+      "Unlocked to any network",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal",
+      "Includes generic charger"
+    ],
+    "reviewsCount": 178,
+    "rating": "4.9"
+  },
+  {
+    "web_scraper_order": "1773157871-4",
+    "web_scraper_start_url": "https://www.triveniworld.com/search?page=4&q=blackberry",
+    "data": "Blackberry Torch 9810 Unlocked GSM HSPA OS 7 Slider Cell Phone Refurbished",
+    "price": "Rs. 4,999.00",
+    "data2": "Blackberry Torch 9810 Unlocked GSM HSPA OS 7 Slider Cell Phone Refurbished",
+    "price2": "Rs. 4,999.00",
+    "data3": "Sale price",
+    "data4": "Unit price",
+    "data5": "per",
+    "data6": "/",
+    "image": "https://www.triveniworld.com/cdn/shop/products/blackberry-torch-9810-unlocked-gsm-hspa-os-7-slider-cell-phone-refurbished-triveni-world-1.jpg?v=1736282847",
+    "priceDisplay": "Rs. 5,509",
+    "priceNum": 5509,
+    "specs": [
+      "Unlocked to any network",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal",
+      "Includes generic charger"
+    ],
+    "reviewsCount": 432,
+    "rating": "4.2"
+  },
+  {
+    "web_scraper_order": "1773157871-5",
+    "web_scraper_start_url": "https://www.triveniworld.com/search?page=4&q=blackberry",
+    "data": "Blackberry Z10 8.0MP Dual-core 4.2\" 2G RAM 16G ROM 3G&4G LTE GPS Wi-Fi Refurbished",
+    "price": "Rs. 5,499.00",
+    "data2": "Blackberry Z10 8.0MP Dual-core 4.2\" 2G RAM 16G ROM 3G&4G LTE GPS Wi-Fi Refurbished",
+    "price2": "Rs. 5,499.00",
+    "data3": "Sale price",
+    "data4": "Unit price",
+    "data5": "per",
+    "data6": "/",
+    "image": "https://www.triveniworld.com/cdn/shop/products/blackberry-z10-8-0mp-dual-core-4-2-2g-ram-16g-rom-3gand4g-lte-gps-wi-fi-refurbished-triveni-world-1.jpg?v=1706414189",
+    "priceDisplay": "Rs. 8,565",
+    "priceNum": 8565,
+    "specs": [
+      "Unlocked to any network",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal",
+      "Includes generic charger"
+    ],
+    "reviewsCount": 480,
+    "rating": "4.5"
+  },
+  {
+    "web_scraper_order": "1773157871-6",
+    "web_scraper_start_url": "https://www.triveniworld.com/search?page=4&q=blackberry",
+    "data": "BlackBerry KEY2 LE BBE100-5 BBE100-4 64GB Dual SIM 4G Unlocked Smartphone Refurbished",
+    "price": "Rs. 15,999.00",
+    "data2": "BlackBerry KEY2 LE BBE100-5 BBE100-4 64GB Dual SIM 4G Unlocked Smartphone Refurbished",
+    "price2": "Rs. 15,999.00",
+    "data3": "Sale price",
+    "data4": "Unit price",
+    "data5": "per",
+    "data6": "/",
+    "image": "https://www.triveniworld.com/cdn/shop/products/blackberry-key2-le-bbe100-5-bbe100-4-64gb-dual-sim-4g-unlocked-smartphone-refurbished-triveni-world-1.jpg?v=1736282632",
+    "priceDisplay": "Rs. 8,417",
+    "priceNum": 8417,
+    "specs": [
+      "Unlocked to any network",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal",
+      "Includes generic charger"
+    ],
+    "reviewsCount": 298,
+    "rating": "4.4"
+  },
+  {
+    "web_scraper_order": "1773157871-7",
+    "web_scraper_start_url": "https://www.triveniworld.com/search?page=4&q=blackberry",
+    "data": "Nokia Lumia 620 | Window 8 Smartphone – Refurbished",
+    "price": "Rs. 1,899.00",
+    "data2": "Nokia Lumia 620 | Window 8 Smartphone – Refurbished",
+    "price2": "Rs. 1,899.00",
+    "data3": "Sale price",
+    "data4": "Unit price",
+    "data5": "per",
+    "data6": "/",
+    "image": "https://www.triveniworld.com/cdn/shop/products/nokia-lumia-620-or-window-8-smartphone-refurbished-triveni-world-1-36532462485801.jpg?v=1736274931",
+    "priceDisplay": "Rs. 1,241",
+    "priceNum": 1241,
+    "specs": [
+      "Unlocked to any network",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal",
+      "Includes generic charger"
+    ],
+    "reviewsCount": 350,
+    "rating": "4.7"
+  },
+  {
+    "web_scraper_order": "mock-1773160237515-0",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "BlackBerry Bold 9900 - Refurbished Unlocked Retro Classic",
+    "price": "Rs. 1,035",
+    "priceDisplay": "Rs. 1,035",
+    "priceNum": 1035,
+    "specs": [
+      "Unlocked to any network",
+      "Classic Retro Design",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal"
+    ],
+    "reviewsCount": 57,
+    "rating": "4.7",
+    "image": "https://images.unsplash.com/photo-1533552755457-5b4812061619?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "web_scraper_order": "mock-1773160237524-1",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "BlackBerry Curve 9320 - Refurbished Unlocked Retro Classic",
+    "price": "Rs. 2,278",
+    "priceDisplay": "Rs. 2,278",
+    "priceNum": 2278,
+    "specs": [
+      "Unlocked to any network",
+      "Classic Retro Design",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal"
+    ],
+    "reviewsCount": 195,
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Bb-curve-8520%281%29.jpg"
+  },
+  {
+    "web_scraper_order": "mock-1773160237524-2",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "BlackBerry Passport - Refurbished Unlocked Retro Classic",
+    "price": "Rs. 2,212",
+    "priceDisplay": "Rs. 2,212",
+    "priceNum": 2212,
+    "specs": [
+      "Unlocked to any network",
+      "Classic Retro Design",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal"
+    ],
+    "reviewsCount": 94,
+    "rating": "4.3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Blackberry_Passport_%28extract%29.png"
+  },
+  {
+    "web_scraper_order": "mock-1773160237524-3",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "BlackBerry Classic (Q20) - Refurbished Unlocked Retro Classic",
+    "price": "Rs. 8,741",
+    "priceDisplay": "Rs. 8,741",
+    "priceNum": 8741,
+    "specs": [
+      "Unlocked to any network",
+      "Classic Retro Design",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal"
+    ],
+    "reviewsCount": 20,
+    "rating": "4.5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Blackberry_Classic%2C_December_2025_%281%29.jpg/960px-Blackberry_Classic%2C_December_2025_%281%29.jpg"
+  },
+  {
+    "web_scraper_order": "mock-1773160237524-4",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "BlackBerry Z30 - Refurbished Unlocked Retro Classic",
+    "price": "Rs. 4,843",
+    "priceDisplay": "Rs. 4,843",
+    "priceNum": 4843,
+    "specs": [
+      "Unlocked to any network",
+      "Classic Retro Design",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal"
+    ],
+    "reviewsCount": 122,
+    "rating": "4.5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/BlackBerry_Z30_2.jpg/960px-BlackBerry_Z30_2.jpg"
+  },
+  {
+    "web_scraper_order": "mock-1773160237524-5",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "BlackBerry Priv - Refurbished Unlocked Retro Classic",
+    "price": "Rs. 8,833",
+    "priceDisplay": "Rs. 8,833",
+    "priceNum": 8833,
+    "specs": [
+      "Unlocked to any network",
+      "Classic Retro Design",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal"
+    ],
+    "reviewsCount": 72,
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BlackBerry-Priv.jpg/960px-BlackBerry-Priv.jpg"
+  },
+  {
+    "web_scraper_order": "mock-1773160237524-6",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "BlackBerry Q10 - Refurbished Unlocked Retro Classic",
+    "price": "Rs. 9,729",
+    "priceDisplay": "Rs. 9,729",
+    "priceNum": 9729,
+    "specs": [
+      "Unlocked to any network",
+      "Classic Retro Design",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal"
+    ],
+    "reviewsCount": 172,
+    "rating": "4.3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Blackberry-Q10-transparent.png/960px-Blackberry-Q10-transparent.png"
+  },
+  {
+    "web_scraper_order": "mock-1773160237524-7",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Nokia Lumia 1020 - Refurbished Unlocked Retro Classic",
+    "price": "Rs. 4,703",
+    "priceDisplay": "Rs. 4,703",
+    "priceNum": 4703,
+    "specs": [
+      "Unlocked to any network",
+      "Classic Retro Design",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal"
+    ],
+    "reviewsCount": 73,
+    "rating": "4.3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Nokia_Lumia_1020_front.jpg/960px-Nokia_Lumia_1020_front.jpg"
+  },
+  {
+    "web_scraper_order": "mock-1773160237524-8",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Nokia Lumia 1520 - Refurbished Unlocked Retro Classic",
+    "price": "Rs. 6,694",
+    "priceDisplay": "Rs. 6,694",
+    "priceNum": 6694,
+    "specs": [
+      "Unlocked to any network",
+      "Classic Retro Design",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal"
+    ],
+    "reviewsCount": 32,
+    "rating": "4.4",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Nokia_Lumia_1520.png"
+  },
+  {
+    "web_scraper_order": "mock-1773160237524-9",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Nokia Lumia 930 - Refurbished Unlocked Retro Classic",
+    "price": "Rs. 3,755",
+    "priceDisplay": "Rs. 3,755",
+    "priceNum": 3755,
+    "specs": [
+      "Unlocked to any network",
+      "Classic Retro Design",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal"
+    ],
+    "reviewsCount": 191,
+    "rating": "4.3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Microsoft_Nokia_Lumia_930.jpg/960px-Microsoft_Nokia_Lumia_930.jpg"
+  },
+  {
+    "web_scraper_order": "mock-1773160237524-10",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Nokia Lumia 920 - Refurbished Unlocked Retro Classic",
+    "price": "Rs. 8,204",
+    "priceDisplay": "Rs. 8,204",
+    "priceNum": 8204,
+    "specs": [
+      "Unlocked to any network",
+      "Classic Retro Design",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal"
+    ],
+    "reviewsCount": 162,
+    "rating": "4.7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Nokia_Lumia_920_-_Caledos_Runner.jpg/960px-Nokia_Lumia_920_-_Caledos_Runner.jpg"
+  },
+  {
+    "web_scraper_order": "mock-1773160237524-11",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Nokia Lumia 520 - Refurbished Unlocked Retro Classic",
+    "price": "Rs. 9,219",
+    "priceDisplay": "Rs. 9,219",
+    "priceNum": 9219,
+    "specs": [
+      "Unlocked to any network",
+      "Classic Retro Design",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal"
+    ],
+    "reviewsCount": 137,
+    "rating": "4.5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Logofornokialumia520.png"
+  },
+  {
+    "web_scraper_order": "mock-1773160237524-12",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Nokia Lumia 720 - Refurbished Unlocked Retro Classic",
+    "price": "Rs. 2,667",
+    "priceDisplay": "Rs. 2,667",
+    "priceNum": 2667,
+    "specs": [
+      "Unlocked to any network",
+      "Classic Retro Design",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal"
+    ],
+    "reviewsCount": 34,
+    "rating": "4.7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Nokia_Lumia_720_Home_screen.jpg/960px-Nokia_Lumia_720_Home_screen.jpg"
+  },
+  {
+    "web_scraper_order": "mock-1773160237524-13",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Microsoft Lumia 950 XL - Refurbished Unlocked Retro Classic",
+    "price": "Rs. 3,798",
+    "priceDisplay": "Rs. 3,798",
+    "priceNum": 3798,
+    "specs": [
+      "Unlocked to any network",
+      "Classic Retro Design",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal"
+    ],
+    "reviewsCount": 162,
+    "rating": "4.0",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Microsoft_Lumia_950_XL_%28Black%29_front.jpg/960px-Microsoft_Lumia_950_XL_%28Black%29_front.jpg"
+  },
+  {
+    "web_scraper_order": "mock-1773160237524-14",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Sony Ericsson Walkman W995 - Refurbished Unlocked Retro Classic",
+    "price": "Rs. 7,772",
+    "priceDisplay": "Rs. 7,772",
+    "priceNum": 7772,
+    "specs": [
+      "Unlocked to any network",
+      "Classic Retro Design",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal"
+    ],
+    "reviewsCount": 14,
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/W995silver.JPG/960px-W995silver.JPG"
+  },
+  {
+    "web_scraper_order": "mock-1773160237524-15",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Sony Ericsson Xperia Arc S - Refurbished Unlocked Retro Classic",
+    "price": "Rs. 3,221",
+    "priceDisplay": "Rs. 3,221",
+    "priceNum": 3221,
+    "specs": [
+      "Unlocked to any network",
+      "Classic Retro Design",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal"
+    ],
+    "reviewsCount": 185,
+    "rating": "4.8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sony_Ericsson_XPERIA_Arc_S_with_Polish_language.jpg/960px-Sony_Ericsson_XPERIA_Arc_S_with_Polish_language.jpg"
+  },
+  {
+    "web_scraper_order": "mock-1773160237524-16",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Sony Ericsson K800i - Refurbished Unlocked Retro Classic",
+    "price": "Rs. 7,243",
+    "priceDisplay": "Rs. 7,243",
+    "priceNum": 7243,
+    "specs": [
+      "Unlocked to any network",
+      "Classic Retro Design",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal"
+    ],
+    "reviewsCount": 167,
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/K800i-front.jpg/960px-K800i-front.jpg"
+  },
+  {
+    "web_scraper_order": "mock-1773160237524-17",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Sony Ericsson W800i - Refurbished Unlocked Retro Classic",
+    "price": "Rs. 7,548",
+    "priceDisplay": "Rs. 7,548",
+    "priceNum": 7548,
+    "specs": [
+      "Unlocked to any network",
+      "Classic Retro Design",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal"
+    ],
+    "reviewsCount": 204,
+    "rating": "5.0",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sony_Ericsson_W800_%28Smooth_White%29%2C_front_and_back.jpg/960px-Sony_Ericsson_W800_%28Smooth_White%29%2C_front_and_back.jpg"
+  },
+  {
+    "web_scraper_order": "mock-1773160237524-18",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Sony Ericsson P990i - Refurbished Unlocked Retro Classic",
+    "price": "Rs. 3,405",
+    "priceDisplay": "Rs. 3,405",
+    "priceNum": 3405,
+    "specs": [
+      "Unlocked to any network",
+      "Classic Retro Design",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal"
+    ],
+    "reviewsCount": 18,
+    "rating": "5.0",
+    "image": "https://images.unsplash.com/photo-1621330396173-e41b1cafd17f?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "web_scraper_order": "mock-1773160237524-19",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Sony Ericsson Xperia Play - Refurbished Unlocked Retro Classic",
+    "price": "Rs. 7,252",
+    "priceDisplay": "Rs. 7,252",
+    "priceNum": 7252,
+    "specs": [
+      "Unlocked to any network",
+      "Classic Retro Design",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal"
+    ],
+    "reviewsCount": 44,
+    "rating": "4.2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sony-Xperia-Play-Open-FL.jpg/960px-Sony-Xperia-Play-Open-FL.jpg"
+  },
+  {
+    "web_scraper_order": "mock-1773160237524-20",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Sony Ericsson T610 - Refurbished Unlocked Retro Classic",
+    "price": "Rs. 5,169",
+    "priceDisplay": "Rs. 5,169",
+    "priceNum": 5169,
+    "specs": [
+      "Unlocked to any network",
+      "Classic Retro Design",
+      "Thoroughly tested & fully functional",
+      "Battery health optimal"
+    ],
+    "reviewsCount": 49,
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Sony_Ericsson_T610_%286144638049%29.jpg/960px-Sony_Ericsson_T610_%286144638049%29.jpg"
+  },
+  {
+    "web_scraper_order": "mock-vintage-1773160566126-0",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Nokia 3310 - Refurbished Unlocked Retro Vintage Classic",
+    "price": "Rs. 9,158",
+    "priceDisplay": "Rs. 9,158",
+    "priceNum": 9158,
+    "specs": [
+      "Unlocked to any network",
+      "Vintage Retro Design",
+      "Thoroughly tested & fully functional",
+      "Original battery replaced"
+    ],
+    "reviewsCount": 311,
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Nokia3310Logo.png"
+  },
+  {
+    "web_scraper_order": "mock-vintage-1773160566135-1",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Nokia 1100 - Refurbished Unlocked Retro Vintage Classic",
+    "price": "Rs. 3,078",
+    "priceDisplay": "Rs. 3,078",
+    "priceNum": 3078,
+    "specs": [
+      "Unlocked to any network",
+      "Vintage Retro Design",
+      "Thoroughly tested & fully functional",
+      "Original battery replaced"
+    ],
+    "reviewsCount": 270,
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Nokia1100_new.jpg"
+  },
+  {
+    "web_scraper_order": "mock-vintage-1773160566135-2",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Nokia 6600 - Refurbished Unlocked Retro Vintage Classic",
+    "price": "Rs. 4,308",
+    "priceDisplay": "Rs. 4,308",
+    "priceNum": 4308,
+    "specs": [
+      "Unlocked to any network",
+      "Vintage Retro Design",
+      "Thoroughly tested & fully functional",
+      "Original battery replaced"
+    ],
+    "reviewsCount": 256,
+    "rating": "4.7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Nokia6600.png"
+  },
+  {
+    "web_scraper_order": "mock-vintage-1773160566135-3",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Nokia N95 - Refurbished Unlocked Retro Vintage Classic",
+    "price": "Rs. 1,227",
+    "priceDisplay": "Rs. 1,227",
+    "priceNum": 1227,
+    "specs": [
+      "Unlocked to any network",
+      "Vintage Retro Design",
+      "Thoroughly tested & fully functional",
+      "Original battery replaced"
+    ],
+    "reviewsCount": 541,
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Nokia_N95_Front_1.jpg/960px-Nokia_N95_Front_1.jpg"
+  },
+  {
+    "web_scraper_order": "mock-vintage-1773160566135-4",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Nokia N-Gage - Refurbished Unlocked Retro Vintage Classic",
+    "price": "Rs. 3,238",
+    "priceDisplay": "Rs. 3,238",
+    "priceNum": 3238,
+    "specs": [
+      "Unlocked to any network",
+      "Vintage Retro Design",
+      "Thoroughly tested & fully functional",
+      "Original battery replaced"
+    ],
+    "reviewsCount": 472,
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Nokia-NGage-LL.png/960px-Nokia-NGage-LL.png"
+  },
+  {
+    "web_scraper_order": "mock-vintage-1773160566136-5",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Nokia 8110 - Refurbished Unlocked Retro Vintage Classic",
+    "price": "Rs. 1,521",
+    "priceDisplay": "Rs. 1,521",
+    "priceNum": 1521,
+    "specs": [
+      "Unlocked to any network",
+      "Vintage Retro Design",
+      "Thoroughly tested & fully functional",
+      "Original battery replaced"
+    ],
+    "reviewsCount": 448,
+    "rating": "4.8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Matrixphone.jpg/960px-Matrixphone.jpg"
+  },
+  {
+    "web_scraper_order": "mock-vintage-1773160566136-6",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Nokia 5310 XpressMusic - Refurbished Unlocked Retro Vintage Classic",
+    "price": "Rs. 5,076",
+    "priceDisplay": "Rs. 5,076",
+    "priceNum": 5076,
+    "specs": [
+      "Unlocked to any network",
+      "Vintage Retro Design",
+      "Thoroughly tested & fully functional",
+      "Original battery replaced"
+    ],
+    "reviewsCount": 183,
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Nokia5310.png/960px-Nokia5310.png"
+  },
+  {
+    "web_scraper_order": "mock-vintage-1773160566136-7",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Nokia E71 - Refurbished Unlocked Retro Vintage Classic",
+    "price": "Rs. 1,108",
+    "priceDisplay": "Rs. 1,108",
+    "priceNum": 1108,
+    "specs": [
+      "Unlocked to any network",
+      "Vintage Retro Design",
+      "Thoroughly tested & fully functional",
+      "Original battery replaced"
+    ],
+    "reviewsCount": 466,
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Nokia_E71_cellphone.jpg/960px-Nokia_E71_cellphone.jpg"
+  },
+  {
+    "web_scraper_order": "mock-vintage-1773160566136-8",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Nokia 7610 - Refurbished Unlocked Retro Vintage Classic",
+    "price": "Rs. 8,461",
+    "priceDisplay": "Rs. 8,461",
+    "priceNum": 8461,
+    "specs": [
+      "Unlocked to any network",
+      "Vintage Retro Design",
+      "Thoroughly tested & fully functional",
+      "Original battery replaced"
+    ],
+    "reviewsCount": 393,
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nokia_7610.png/960px-Nokia_7610.png"
+  },
+  {
+    "web_scraper_order": "mock-vintage-1773160566136-9",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Motorola Razr V3 - Refurbished Unlocked Retro Vintage Classic",
+    "price": "Rs. 4,069",
+    "priceDisplay": "Rs. 4,069",
+    "priceNum": 4069,
+    "specs": [
+      "Unlocked to any network",
+      "Vintage Retro Design",
+      "Thoroughly tested & fully functional",
+      "Original battery replaced"
+    ],
+    "reviewsCount": 159,
+    "rating": "4.7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Motorola_Razr_V3_montage_closed_open.png"
+  },
+  {
+    "web_scraper_order": "mock-vintage-1773160566136-10",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Motorola StarTAC - Refurbished Unlocked Retro Vintage Classic",
+    "price": "Rs. 4,994",
+    "priceDisplay": "Rs. 4,994",
+    "priceNum": 4994,
+    "specs": [
+      "Unlocked to any network",
+      "Vintage Retro Design",
+      "Thoroughly tested & fully functional",
+      "Original battery replaced"
+    ],
+    "reviewsCount": 472,
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Motorola_StarTAC_Flip_Phone.jpg"
+  },
+  {
+    "web_scraper_order": "mock-vintage-1773160566136-11",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Motorola DynaTAC 8000X - Refurbished Unlocked Retro Vintage Classic",
+    "price": "Rs. 4,056",
+    "priceDisplay": "Rs. 4,056",
+    "priceNum": 4056,
+    "specs": [
+      "Unlocked to any network",
+      "Vintage Retro Design",
+      "Thoroughly tested & fully functional",
+      "Original battery replaced"
+    ],
+    "reviewsCount": 453,
+    "rating": "4.8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2007Computex_e21Forum-MartinCooper.jpg/960px-2007Computex_e21Forum-MartinCooper.jpg"
+  },
+  {
+    "web_scraper_order": "mock-vintage-1773160566136-12",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Motorola Rokr E1 - Refurbished Unlocked Retro Vintage Classic",
+    "price": "Rs. 5,689",
+    "priceDisplay": "Rs. 5,689",
+    "priceNum": 5689,
+    "specs": [
+      "Unlocked to any network",
+      "Vintage Retro Design",
+      "Thoroughly tested & fully functional",
+      "Original battery replaced"
+    ],
+    "reviewsCount": 190,
+    "rating": "4.8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/MOTOROKR.jpg/960px-MOTOROKR.jpg"
+  },
+  {
+    "web_scraper_order": "mock-vintage-1773160566136-13",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Motorola Pebl U6 - Refurbished Unlocked Retro Vintage Classic",
+    "price": "Rs. 4,373",
+    "priceDisplay": "Rs. 4,373",
+    "priceNum": 4373,
+    "specs": [
+      "Unlocked to any network",
+      "Vintage Retro Design",
+      "Thoroughly tested & fully functional",
+      "Original battery replaced"
+    ],
+    "reviewsCount": 485,
+    "rating": "4.7",
+    "image": "https://images.unsplash.com/photo-1599329064137-d2eab16cff5e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "web_scraper_order": "mock-vintage-1773160566136-14",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Motorola Slvr L7 - Refurbished Unlocked Retro Vintage Classic",
+    "price": "Rs. 1,433",
+    "priceDisplay": "Rs. 1,433",
+    "priceNum": 1433,
+    "specs": [
+      "Unlocked to any network",
+      "Vintage Retro Design",
+      "Thoroughly tested & fully functional",
+      "Original battery replaced"
+    ],
+    "reviewsCount": 275,
+    "rating": "4.8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Motorola_SLVR_L7_flickr_214905784.jpg/960px-Motorola_SLVR_L7_flickr_214905784.jpg"
+  },
+  {
+    "web_scraper_order": "mock-vintage-1773160566136-15",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Samsung E700 - Refurbished Unlocked Retro Vintage Classic",
+    "price": "Rs. 3,279",
+    "priceDisplay": "Rs. 3,279",
+    "priceNum": 3279,
+    "specs": [
+      "Unlocked to any network",
+      "Vintage Retro Design",
+      "Thoroughly tested & fully functional",
+      "Original battery replaced"
+    ],
+    "reviewsCount": 410,
+    "rating": "4.5",
+    "image": "https://images.unsplash.com/photo-1610792516300-eaaca3863d04?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "web_scraper_order": "mock-vintage-1773160566136-16",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Samsung D500 - Refurbished Unlocked Retro Vintage Classic",
+    "price": "Rs. 5,506",
+    "priceDisplay": "Rs. 5,506",
+    "priceNum": 5506,
+    "specs": [
+      "Unlocked to any network",
+      "Vintage Retro Design",
+      "Thoroughly tested & fully functional",
+      "Original battery replaced"
+    ],
+    "reviewsCount": 287,
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Samsung.Front.JPG"
+  },
+  {
+    "web_scraper_order": "mock-vintage-1773160566136-17",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "LG Chocolate - Refurbished Unlocked Retro Vintage Classic",
+    "price": "Rs. 9,755",
+    "priceDisplay": "Rs. 9,755",
+    "priceNum": 9755,
+    "specs": [
+      "Unlocked to any network",
+      "Vintage Retro Design",
+      "Thoroughly tested & fully functional",
+      "Original battery replaced"
+    ],
+    "reviewsCount": 311,
+    "rating": "4.8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/LG_KG800.jpg/960px-LG_KG800.jpg"
+  },
+  {
+    "web_scraper_order": "mock-vintage-1773160566136-18",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "LG Shine - Refurbished Unlocked Retro Vintage Classic",
+    "price": "Rs. 8,747",
+    "priceDisplay": "Rs. 8,747",
+    "priceNum": 8747,
+    "specs": [
+      "Unlocked to any network",
+      "Vintage Retro Design",
+      "Thoroughly tested & fully functional",
+      "Original battery replaced"
+    ],
+    "reviewsCount": 68,
+    "rating": "4.5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/LG_shine_imgp0493_resize.jpg"
+  },
+  {
+    "web_scraper_order": "mock-aesthetic-1773160741526-0",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Unihertz Titan 2 Elite - Refurbished Unlocked Aesthetic Device",
+    "price": "Rs. 3,367",
+    "priceDisplay": "Rs. 3,367",
+    "priceNum": 3367,
+    "specs": [
+      "Unique Aesthetic Design",
+      "Unlocked to any network",
+      "Thoroughly tested & fully functional",
+      "Premium Refurbished"
+    ],
+    "reviewsCount": 593,
+    "rating": "4.7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Unihertz_Logo.png/960px-Unihertz_Logo.png"
+  },
+  {
+    "web_scraper_order": "mock-aesthetic-1773160741535-1",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Unihertz Titan 2 - Refurbished Unlocked Aesthetic Device",
+    "price": "Rs. 4,939",
+    "priceDisplay": "Rs. 4,939",
+    "priceNum": 4939,
+    "specs": [
+      "Unique Aesthetic Design",
+      "Unlocked to any network",
+      "Thoroughly tested & fully functional",
+      "Premium Refurbished"
+    ],
+    "reviewsCount": 376,
+    "rating": "4.3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/A11y_smartphone_003_Unihertz_Titan_Slim_005.jpg/960px-A11y_smartphone_003_Unihertz_Titan_Slim_005.jpg"
+  },
+  {
+    "web_scraper_order": "mock-aesthetic-1773160741535-2",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Unihertz Titan Pocket - Refurbished Unlocked Aesthetic Device",
+    "price": "Rs. 5,117",
+    "priceDisplay": "Rs. 5,117",
+    "priceNum": 5117,
+    "specs": [
+      "Unique Aesthetic Design",
+      "Unlocked to any network",
+      "Thoroughly tested & fully functional",
+      "Premium Refurbished"
+    ],
+    "reviewsCount": 155,
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Unihertz_Logo.png/960px-Unihertz_Logo.png"
+  },
+  {
+    "web_scraper_order": "mock-aesthetic-1773160741535-3",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Unihertz Titan Slim - Refurbished Unlocked Aesthetic Device",
+    "price": "Rs. 4,342",
+    "priceDisplay": "Rs. 4,342",
+    "priceNum": 4342,
+    "specs": [
+      "Unique Aesthetic Design",
+      "Unlocked to any network",
+      "Thoroughly tested & fully functional",
+      "Premium Refurbished"
+    ],
+    "reviewsCount": 578,
+    "rating": "4.6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Unihertz_Logo.png/960px-Unihertz_Logo.png"
+  },
+  {
+    "web_scraper_order": "mock-aesthetic-1773160741535-4",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Light Phone II - Refurbished Unlocked Aesthetic Device",
+    "price": "Rs. 8,924",
+    "priceDisplay": "Rs. 8,924",
+    "priceNum": 8924,
+    "specs": [
+      "Unique Aesthetic Design",
+      "Unlocked to any network",
+      "Thoroughly tested & fully functional",
+      "Premium Refurbished"
+    ],
+    "reviewsCount": 442,
+    "rating": "5.0",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Light-logo-SVG.svg/960px-Light-logo-SVG.svg.png"
+  },
+  {
+    "web_scraper_order": "mock-aesthetic-1773160741535-5",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Punkt MP02 - Refurbished Unlocked Aesthetic Device",
+    "price": "Rs. 1,219",
+    "priceDisplay": "Rs. 1,219",
+    "priceNum": 1219,
+    "specs": [
+      "Unique Aesthetic Design",
+      "Unlocked to any network",
+      "Thoroughly tested & fully functional",
+      "Premium Refurbished"
+    ],
+    "reviewsCount": 541,
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Command_post_%22MP-06%22.jpg"
+  },
+  {
+    "web_scraper_order": "mock-aesthetic-1773160741535-6",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Nothing Phone (1) - Refurbished Unlocked Aesthetic Device",
+    "price": "Rs. 3,497",
+    "priceDisplay": "Rs. 3,497",
+    "priceNum": 3497,
+    "specs": [
+      "Unique Aesthetic Design",
+      "Unlocked to any network",
+      "Thoroughly tested & fully functional",
+      "Premium Refurbished"
+    ],
+    "reviewsCount": 635,
+    "rating": "4.9",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Nothing_phone%281%29_White_%28back%29.svg/960px-Nothing_phone%281%29_White_%28back%29.svg.png"
+  },
+  {
+    "web_scraper_order": "mock-aesthetic-1773160741535-7",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Essential Phone PH-1 - Refurbished Unlocked Aesthetic Device",
+    "price": "Rs. 4,383",
+    "priceDisplay": "Rs. 4,383",
+    "priceNum": 4383,
+    "specs": [
+      "Unique Aesthetic Design",
+      "Unlocked to any network",
+      "Thoroughly tested & fully functional",
+      "Premium Refurbished"
+    ],
+    "reviewsCount": 883,
+    "rating": "4.5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Essential_Phone_in_ocean_depths.jpg/960px-Essential_Phone_in_ocean_depths.jpg"
+  },
+  {
+    "web_scraper_order": "mock-aesthetic-1773160741535-8",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Palm Phone - Refurbished Unlocked Aesthetic Device",
+    "price": "Rs. 5,269",
+    "priceDisplay": "Rs. 5,269",
+    "priceNum": 5269,
+    "specs": [
+      "Unique Aesthetic Design",
+      "Unlocked to any network",
+      "Thoroughly tested & fully functional",
+      "Premium Refurbished"
+    ],
+    "reviewsCount": 548,
+    "rating": "4.8",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "web_scraper_order": "mock-aesthetic-1773160741535-9",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Balmuda Phone - Refurbished Unlocked Aesthetic Device",
+    "price": "Rs. 1,042",
+    "priceDisplay": "Rs. 1,042",
+    "priceNum": 1042,
+    "specs": [
+      "Unique Aesthetic Design",
+      "Unlocked to any network",
+      "Thoroughly tested & fully functional",
+      "Premium Refurbished"
+    ],
+    "reviewsCount": 721,
+    "rating": "4.7",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+  }
+]
