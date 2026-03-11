@@ -10,12 +10,10 @@ export default function Footer() {
         </div>
 
         <div className="footer-block">
-          <h3>Quick Links</h3>
+          <h3 id="footer">Quick Links</h3>
           <ul>
-            <li><a href="#">Search</a></li>
-            <li><a href="#">Shop</a></li>
-            <li><a href="#">About us</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="/#smartphones">Shop</a></li>
+            <li><a href="/#about">About us</a></li>
           </ul>
         </div>
 

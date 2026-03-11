@@ -22,11 +22,11 @@ export default function Header() {
 
           <nav className="desktop-nav">
             <ul>
-              <li><Link to="/">Home</Link></li>
-              <li><Link to="/">Smartphones</Link></li>
-              <li><Link to="/">Categories</Link></li>
-              <li><Link to="/">About Us</Link></li>
-              <li><Link to="/">Contact</Link></li>
+              <li><a href="/#">Home</a></li>
+              <li><a href="/#smartphones">Smartphones</a></li>
+              <li><a href="/#smartphones">Categories</a></li>
+              <li><a href="/#about">About Us</a></li>
+              <li><a href="#footer">Contact</a></li>
             </ul>
           </nav>
 

@@ -35,7 +35,7 @@ export default function Home() {
       <main className="main-content">
         <div className="container">
 
-          <div className="collection-header">
+          <div id="smartphones" className="collection-header">
             <h2 className="collection-title">Refurbished Mobile Phones (Rs. 1000 - 10000)</h2>
             <div className="collection-filters">
               <span>{filteredAndSortedProducts.length} products</span>
@@ -52,6 +52,13 @@ export default function Home() {
               <ProductCard key={idx} product={product} />
             ))}
           </div>
+
+          <section id="about" style={{ marginTop: '4rem', paddingTop: '2rem', borderTop: '1px solid var(--border-color)' }}>
+            <h2 className="collection-title">About Us</h2>
+            <p style={{ marginTop: '1rem', color: 'var(--text-muted)', lineHeight: '1.6' }}>
+              Welcome to Digitox, India's premier destination for high-quality refurbished and vintage smartphones. We believe in sustainable technology and giving iconic devices a second life. Every phone in our inventory undergoes rigorous testing to ensure it meets our strict quality standards before it reaches your hands.
+            </p>
+          </section>
 
         </div>
       </main>
