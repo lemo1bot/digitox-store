@@ -1,9 +1,33 @@
-import React from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import Hero from '../components/Hero';
 import ProductCard from '../components/ProductCard';
 import productsData from '../data/products.json';
 
 export default function Home() {
+  const [priceFilter, setPriceFilter] = useState('all');
+  const [sortOption, setSortOption] = useState('featured');
+
+  useEffect(() => {
+    document.title = "Digitox | Premium Refurbished Smartphones India";
+    const metaDesc = document.querySelector('meta[name="description"]');
+    if (metaDesc) {
+      metaDesc.setAttribute('content', 'Buy premium refurbished and highly-anticipated vintage smartphones in India. Huge discounts on iPhones, Galaxy, BlackBerry, and Nokia with fast free shipping.');
+    }
+  }, []);
+
+  const filteredAndSortedProducts = useMemo(() => {
+    let filtered = productsData;
+
+    // Sort logic
+    if (sortOption === 'low') {
+      filtered = [...filtered].sort((a, b) => a.priceNum - b.priceNum);
+    } else if (sortOption === 'high') {
+      filtered = [...filtered].sort((a, b) => b.priceNum - a.priceNum);
+    }
+
+    return filtered;
+  }, [priceFilter, sortOption]);
+
   return (
     <div className="page-wrapper">
       <Hero />
@@ -14,17 +38,17 @@ export default function Home() {
           <div className="collection-header">
             <h2 className="collection-title">Refurbished Mobile Phones (Rs. 1000 - 10000)</h2>
             <div className="collection-filters">
-              <span>{productsData.length} products</span>
-              <select className="sort-input">
-                <option>Sort by: Featured</option>
-                <option>Price: Low to High</option>
-                <option>Price: High to Low</option>
+              <span>{filteredAndSortedProducts.length} products</span>
+              <select className="sort-input" value={sortOption} onChange={e => setSortOption(e.target.value)}>
+                <option value="featured">Sort by: Featured</option>
+                <option value="low">Price: Low to High</option>
+                <option value="high">Price: High to Low</option>
               </select>
             </div>
           </div>
 
           <div className="product-grid">
-            {productsData.map((product, idx) => (
+            {filteredAndSortedProducts.map((product, idx) => (
               <ProductCard key={idx} product={product} />
             ))}
           </div>
@@ -83,7 +107,7 @@ export default function Home() {
             grid-template-columns: repeat(3, 1fr);
           }
         }
-        
+
         @media (max-width: 768px) {
           .collection-header {
             flex-direction: column;
@@ -98,7 +122,7 @@ export default function Home() {
             font-size: 1.5rem;
           }
         }
-        
+
         @media (max-width: 480px) {
           .product-grid {
             grid-template-columns: 1fr;

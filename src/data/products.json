@@ -1097,5 +1097,95 @@
     "reviewsCount": 721,
     "rating": "4.7",
     "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "web_scraper_order": "mock-jp-1773244083064-0",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Sony Xperia 1 V - Premium 4K OLED Flagship",
+    "price": "Rs. 65,896",
+    "priceDisplay": "Rs. 65,896",
+    "priceNum": 65896,
+    "specs": [
+      "6.5\" 4K HDR OLED 120Hz display",
+      "Snapdragon 8 Gen 2 processor",
+      "Triple camera with Exmor T sensor",
+      "3.5mm headphone jack & microSD support"
+    ],
+    "reviewsCount": 31,
+    "rating": "4.8",
+    "image": "https://images.unsplash.com/photo-1628126235206-5260b9ea6441?auto=format&fit=crop&q=80&w=800",
+    "category": "japanese-import"
+  },
+  {
+    "web_scraper_order": "mock-jp-1773244083074-1",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Sharp Aquos R8 Pro - Photography Centric Masterpiece",
+    "price": "Rs. 1,06,141",
+    "priceDisplay": "Rs. 1,06,141",
+    "priceNum": 106141,
+    "specs": [
+      "6.6\" IGZO OLED 240Hz display",
+      "Leica customized 1-inch sensor",
+      "Snapdragon 8 Gen 2 processor",
+      "Integrated lens cooling technology"
+    ],
+    "reviewsCount": 22,
+    "rating": "4.9",
+    "image": "https://images.unsplash.com/photo-1549439602-43ebca2327af?auto=format&fit=crop&q=80&w=800",
+    "category": "japanese-import"
+  },
+  {
+    "web_scraper_order": "mock-jp-1773244083074-2",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Kyocera DuraForce Pro 3 - Ultra Rugged Smartphone",
+    "price": "Rs. 88,329",
+    "priceDisplay": "Rs. 88,329",
+    "priceNum": 88329,
+    "specs": [
+      "MIL-STD-810H & IP68 drop-proof rating",
+      "Sapphire Shield display protection",
+      "Programmable push-to-talk button",
+      "Dual-band Wi-Fi 6 & 5G support"
+    ],
+    "reviewsCount": 44,
+    "rating": "4.5",
+    "image": "https://images.unsplash.com/photo-1585060544812-6b45742d762f?auto=format&fit=crop&q=80&w=800",
+    "category": "japanese-import"
+  },
+  {
+    "web_scraper_order": "mock-jp-1773244083074-3",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "Sony Xperia 5 IV - Compact Creator Smartphone",
+    "price": "Rs. 98,311",
+    "priceDisplay": "Rs. 98,311",
+    "priceNum": 98311,
+    "specs": [
+      "6.1\" HDR OLED 120Hz display",
+      "Real-time Eye AF & subject tracking",
+      "5000mAh battery in compact body",
+      "Wireless charging & reverse wireless charging"
+    ],
+    "reviewsCount": 11,
+    "rating": "4.9",
+    "image": "https://images.unsplash.com/photo-1598327105654-36e352514120?auto=format&fit=crop&q=80&w=800",
+    "category": "japanese-import"
+  },
+  {
+    "web_scraper_order": "mock-jp-1773244083074-4",
+    "web_scraper_start_url": "https://www.triveniworld.com/",
+    "data": "FCNT Arrows N (F-51C) - Sustainable Recycled Smartphone",
+    "price": "Rs. 93,453",
+    "priceDisplay": "Rs. 93,453",
+    "priceNum": 93453,
+    "specs": [
+      "Made from 67% recycled materials",
+      "6.24\" OLED display",
+      "IPX5/8 waterproof & IP6X dustproof",
+      "Long-lasting battery degradation protection"
+    ],
+    "reviewsCount": 42,
+    "rating": "4.6",
+    "image": "https://images.unsplash.com/photo-1565536421961-1f165e0c50fa?auto=format&fit=crop&q=80&w=800",
+    "category": "japanese-import"
   }
 ]
