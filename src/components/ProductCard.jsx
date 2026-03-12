@@ -10,7 +10,7 @@ export default function ProductCard({ product }) {
     <div className="product-card" onClick={() => navigate(`/product/${product.web_scraper_order}`, { state: { product } })}>
       <div className="card-image-wrapper">
         <span className="badge-sale absolute-badge">Sale</span>
-        <img src={image} alt={product.data} className="card-image" />
+        <img src={image} alt={product.data} className="card-image" referrerPolicy="no-referrer" />
         <div className="quick-add">
           <button className="btn-primary full-width" onClick={(e) => {
             e.stopPropagation();

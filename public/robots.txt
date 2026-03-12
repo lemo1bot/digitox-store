@@ -1,5 +1,13 @@
 User-agent: *
 Allow: /
 
-# Sitemaps
-Sitemap: https://digitoxstore.vercel.app/sitemap.xml
+# Block checkout internals from being indexed
+Disallow: /checkout
+Disallow: /cart
+
+# Allow all product and category pages
+Allow: /product/
+Allow: /?category=
+
+# Sitemap location
+Sitemap: https://digitox.site/sitemap.xml

@@ -1,4 +1,4 @@
-import { ShoppingCart, Search, Menu, User } from 'lucide-react';
+import { ShoppingCart, Search, Menu, User, Smartphone } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 export default function Header() {
@@ -17,6 +17,7 @@ export default function Header() {
           </div>
 
           <Link to="/" className="site-logo">
+            <span className="logo-icon"><Smartphone size={28} strokeWidth={2.5} /></span>
             Digitox
           </Link>
 
@@ -83,6 +84,23 @@ export default function Header() {
           letter-spacing: 2px;
           text-transform: uppercase;
           justify-self: center;
+          display: flex;
+          align-items: center;
+          gap: 0.4rem;
+        }
+
+        .logo-icon {
+          display: flex;
+          align-items: center;
+          background: linear-gradient(135deg, var(--primary), #7c3aed);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          background-clip: text;
+          color: var(--primary);
+        }
+
+        .logo-icon svg {
+          stroke: var(--primary);
         }
 
         .desktop-nav {

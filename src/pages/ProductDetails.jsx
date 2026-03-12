@@ -10,12 +10,67 @@ export default function ProductDetails() {
 
   useEffect(() => {
     if (product) {
-      document.title = `${product.data} - Buy at Digitox`;
+      // Dynamic page title
+      document.title = `Buy ${product.data} | Best Price India – Digitox`;
+
+      // Dynamic meta description
       const metaDesc = document.querySelector('meta[name="description"]');
       if (metaDesc) {
-        metaDesc.setAttribute('content', `Buy the ${product.data} online at Digitox. Premium refurbished condition with fast free shipping across India.`);
+        metaDesc.setAttribute('content',
+          `Buy ${product.data} at ₹${product.priceDisplay} on Digitox. Certified refurbished, fully unlocked, 6-month warranty & free shipping across India.`
+        );
       }
+
+      // Dynamic canonical URL
+      let canonical = document.querySelector('link[rel="canonical"]');
+      if (!canonical) {
+        canonical = document.createElement('link');
+        canonical.rel = 'canonical';
+        document.head.appendChild(canonical);
+      }
+      canonical.href = `https://digitox.site/product/${product.web_scraper_order}`;
+
+      // Product JSON-LD structured data (rich result in Google)
+      let ldScript = document.getElementById('product-jsonld');
+      if (!ldScript) {
+        ldScript = document.createElement('script');
+        ldScript.id = 'product-jsonld';
+        ldScript.type = 'application/ld+json';
+        document.head.appendChild(ldScript);
+      }
+      ldScript.textContent = JSON.stringify({
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "name": product.data,
+        "description": `Certified refurbished ${product.data}. Fully unlocked, thoroughly tested, 6-month warranty.`,
+        "image": product.image || '',
+        "brand": {
+          "@type": "Brand",
+          "name": product.data.split(' ')[0]
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": `https://digitox.site/product/${product.web_scraper_order}`,
+          "priceCurrency": "INR",
+          "price": product.priceNum,
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "Digitox"
+          }
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": product.rating,
+          "reviewCount": product.reviewsCount
+        }
+      });
     }
+    // Cleanup on unmount
+    return () => {
+      const ldScript = document.getElementById('product-jsonld');
+      if (ldScript) ldScript.remove();
+    };
   }, [product]);
 
   if (!product) {
