@@ -1,6 +1,7 @@
 import React, { useState, useMemo, useEffect } from 'react';
 import Hero from '../components/Hero';
 import ProductCard from '../components/ProductCard';
+import AdUnit from '../components/AdUnit';
 import productsData from '../data/products.json';
 
 export default function Home() {
@@ -49,11 +50,22 @@ export default function Home() {
 
           <div className="product-grid">
             {filteredAndSortedProducts.map((product, idx) => (
-              <ProductCard key={idx} product={product} />
+              <React.Fragment key={idx}>
+                <ProductCard product={product} />
+                {/* Show an ad after every 8 products */}
+                {idx === 7 && (
+                  <div style={{ gridColumn: '1 / -1' }}>
+                    <AdUnit slot="leaderboard" />
+                  </div>
+                )}
+              </React.Fragment>
             ))}
           </div>
 
-          <section id="about" style={{ marginTop: '4rem', paddingTop: '2rem', borderTop: '1px solid var(--border-color)' }}>
+          {/* Ad before About section */}
+          <AdUnit slot="leaderboard" style={{ marginTop: '2rem' }} />
+
+          <section id="about" style={{ marginTop: '2rem', paddingTop: '2rem', borderTop: '1px solid var(--border-color)' }}>
             <h2 className="collection-title">About Us</h2>
             <p style={{ marginTop: '1rem', color: 'var(--text-muted)', lineHeight: '1.6' }}>
               Welcome to Digitox, India's premier destination for high-quality refurbished and vintage smartphones. We believe in sustainable technology and giving iconic devices a second life. Every phone in our inventory undergoes rigorous testing to ensure it meets our strict quality standards before it reaches your hands.

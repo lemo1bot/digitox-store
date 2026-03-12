@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import { useLocation, useNavigate, useParams } from 'react-router-dom';
 import { Star, CheckCircle, Shield, Truck, RefreshCcw } from 'lucide-react';
+import AdUnit from '../components/AdUnit';
 
 export default function ProductDetails() {
   const { id } = useParams();
@@ -168,6 +169,9 @@ export default function ProductDetails() {
           </div>
         </div>
       </div>
+
+      {/* Ad between product info and reviews */}
+      <AdUnit slot="leaderboard" style={{ margin: '2rem 0' }} />
 
       {/* Bottom: Detailed Description & Reviews */}
       <div className="product-tabs">
