@@ -13,7 +13,7 @@ import { useEffect, useRef } from 'react';
  */
 
 // ⚠️ REPLACE THESE with your real AdSense values after approval
-const ADSENSE_CLIENT = 'ca-pub-XXXXXXXXXX'; // Your AdSense publisher ID
+const ADSENSE_CLIENT = 'ca-pub-8301774269044238';
 const AD_SLOTS = {
   leaderboard: 'XXXXXXXXXX',   // Create a "Display ad" 728x90 in AdSense
   rectangle: 'XXXXXXXXXX',     // Create a "Display ad" 300x250 in AdSense
