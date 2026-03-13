@@ -1,4 +1,5 @@
 import React, { useState, useMemo, useEffect } from 'react';
+import { useLocation } from 'react-router-dom';
 import Hero from '../components/Hero';
 import ProductCard from '../components/ProductCard';
 import AdUnit from '../components/AdUnit';
@@ -7,6 +8,7 @@ import productsData from '../data/products.json';
 export default function Home() {
   const [priceFilter, setPriceFilter] = useState('all');
   const [sortOption, setSortOption] = useState('featured');
+  const location = useLocation();
 
   useEffect(() => {
     document.title = "Digitox | Premium Refurbished Smartphones India";
@@ -14,7 +16,17 @@ export default function Home() {
     if (metaDesc) {
       metaDesc.setAttribute('content', 'Buy premium refurbished and highly-anticipated vintage smartphones in India. Huge discounts on iPhones, Galaxy, BlackBerry, and Nokia with fast free shipping.');
     }
-  }, []);
+
+    // Scroll to section if navigated from another page
+    if (location.state?.scrollTo) {
+      setTimeout(() => {
+        const element = document.getElementById(location.state.scrollTo);
+        if (element) {
+          element.scrollIntoView({ behavior: 'smooth' });
+        }
+      }, 100);
+    }
+  }, [location]);
 
   const filteredAndSortedProducts = useMemo(() => {
     let filtered = productsData;

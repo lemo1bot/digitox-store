@@ -260,6 +260,8 @@ export default function ProductDetails() {
           max-width: 100%;
           max-height: 100%;
           object-fit: contain;
+          margin: 0 auto;
+          display: block;
         }
 
         .product-title {

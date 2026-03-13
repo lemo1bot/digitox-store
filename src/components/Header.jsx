@@ -1,7 +1,22 @@
 import { ShoppingCart, Search, Menu, User, Smartphone } from 'lucide-react';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate, useLocation } from 'react-router-dom';
 
 export default function Header() {
+  const navigate = useNavigate();
+  const location = useLocation();
+
+  const handleNavClick = (e, targetId) => {
+    e.preventDefault();
+    if (location.pathname !== '/') {
+      navigate('/', { state: { scrollTo: targetId } });
+    } else {
+      const element = document.getElementById(targetId);
+      if (element) {
+        element.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+  };
+
   return (
     <header className="header-wrapper">
       <div className="announcement-bar">
@@ -23,11 +38,11 @@ export default function Header() {
 
           <nav className="desktop-nav">
             <ul>
-              <li><a href="/#">Home</a></li>
-              <li><a href="/#smartphones">Smartphones</a></li>
-              <li><a href="/#smartphones">Categories</a></li>
-              <li><a href="/#about">About Us</a></li>
-              <li><a href="#footer">Contact</a></li>
+              <li><Link to="/">Home</Link></li>
+              <li><a href="#smartphones" onClick={(e) => handleNavClick(e, 'smartphones')}>Smartphones</a></li>
+              <li><Link to="/blog">Blog</Link></li>
+              <li><a href="#about" onClick={(e) => handleNavClick(e, 'about')}>About Us</a></li>
+              <li><a href="#footer" onClick={(e) => handleNavClick(e, 'footer')}>Contact</a></li>
             </ul>
           </nav>
 

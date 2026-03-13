@@ -6,6 +6,8 @@ import Footer from './components/Footer';
 import Home from './pages/Home';
 import CheckoutDemo from './pages/CheckoutDemo';
 import ProductDetails from './pages/ProductDetails';
+import Blog from './pages/Blog';
+import BlogPost from './pages/BlogPost';
 
 export default function App() {
   return (
@@ -18,6 +20,8 @@ export default function App() {
             <Route path="/" element={<Home />} />
             <Route path="/checkout" element={<CheckoutDemo />} />
             <Route path="/product/:id" element={<ProductDetails />} />
+            <Route path="/blog" element={<Blog />} />
+            <Route path="/blog/:slug" element={<BlogPost />} />
           </Routes>
         </main>
 
